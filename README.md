@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome 😃
 
 I am Meet Vyas. I am naturally very curious, which has made me delve into several disciplines and activities, the details of which can be found on [my personal website](https://meet-vyas-dev.github.io/)
 
